@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shubhankt1
-- 👀 I’m a Software Development who's interested in the Internet of Things, Flutter, Python, and learning about latest tech.
-- 🌱 I’m currently learning Advance Flutter Dev.
+- 👋 Hi, I’m Shubhank Tyagi
+- 👀 I’m a Graduare Student at Northeastern University, Boston who's interested in IoT, Mobile, and cloud development.
+- 🌱 I’m currently on my summer co-op at Danlaw Inc, MI.
 - 💞️ I’m happy to collaborate on projects related to IoT, Flutter apps, Python dev.
 - 📫 How to reach me: shubhank.tyagi@gmail.com
 
